@@ -1,0 +1,5 @@
+- hosts: testvm
+
+  tasks:
+    - debug: msg="This is a placeholder ansible playbook. Seems to work."
+
