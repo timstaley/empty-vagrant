@@ -1,4 +1,4 @@
-- hosts: testvm
+- hosts: vagrantvm
 
   tasks:
     - debug: msg="This is a placeholder ansible playbook. Seems to work."
